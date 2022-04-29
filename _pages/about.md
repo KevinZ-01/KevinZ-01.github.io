@@ -8,11 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am Kaiwen Zhou, an incoming Ph.D student at the University of California, Santa Cruz working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). I recieved my bachelor degree in statistics from Zhejiang University.
+This is Kaiwen Zhou, a first-year Ph.D student at the University of California, Santa Cruz working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). I recieved my bachelor degree in statistics from Zhejiang University.
 
 Research interest
 ======
-I'm interested in problems on improving the performance and promoting the application of AI, currently working on AI privacy. 
+I'm interested in problems on improving the performance and promoting the application of AI, with an emphasis on multi-modal and embodied AI problems. 
+
+News
+======
+* We are ranking No.1 in [Alexa Prize SimBot Public Benchmark Challenge](https://arxiv.org/abs/2203.14936)!
+
+Publication
+======
+**FedVLN: Privacy-preserving Federated Vision-and-Language Navigation**
+Kaiwen Zhou, Xin Eric Wang
+preprint
+\[[Paper](https://arxiv.org/abs/2203.14936)\]
 
 Honors & Awards
 ======
