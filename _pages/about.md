@@ -20,10 +20,10 @@ News
 
 Publication
 ======
-**FedVLN: Privacy-preserving Federated Vision-and-Language Navigation**
-Kaiwen Zhou, Xin Eric Wang
-preprint
-\[[Paper](https://arxiv.org/abs/2203.14936)\]
+**FedVLN: Privacy-preserving Federated Vision-and-Language Navigation**  <br /> 
+Kaiwen Zhou, Xin Eric Wang  <br /> 
+preprint  <br /> 
+\[[Paper](https://arxiv.org/abs/2203.14936)\]  <br /> 
 
 Honors & Awards
 ======
