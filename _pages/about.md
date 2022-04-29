@@ -16,7 +16,8 @@ I'm interested in problems on improving the performance and promoting the applic
 
 News
 ======
-* We are ranking No.1 in [Alexa Prize SimBot Public Benchmark Challenge](https://arxiv.org/abs/2203.14936)!
+* We are ranking No.1 in [Alexa Prize SimBot Public Benchmark Challenge](https://eval.ai/web/challenges/challenge-page/1450/leaderboard/3644)!(04/2022)
+* I will join Samsung AI center as research intern this summer!(04/2022)
 
 Publication
 ======
