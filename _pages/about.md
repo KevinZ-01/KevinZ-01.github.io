@@ -25,7 +25,7 @@ Publication
 **FedVLN: Privacy-preserving Federated Vision-and-Language Navigation**  <br /> 
 Kaiwen Zhou, Xin Eric Wang  <br /> 
 ECCV 2022 <br /> 
-\[[Paper](https://arxiv.org/abs/2203.14936)\]  <br /> 
+\[[Paper](https://arxiv.org/abs/2203.14936)\]  \[[Source](https://github.com/eric-ai-lab/FedVLN)\] <br /> 
 
 Honors & Awards
 ======
