@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -86,7 +86,7 @@ author:
   location         : "Santa Cruz, California"
  # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=FbzTX04AAAAJ"
   email            :  "kzhou35@ucsc.edu"
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/凯文-周-a21b241bb"
+  linkedin         : "https://www.linkedin.com/in/kaiwen-zhou-a21b241bb/"
   orcid            : 
   pinterest        :
   soundcloud       :
