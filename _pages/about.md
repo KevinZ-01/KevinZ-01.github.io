@@ -35,3 +35,6 @@ Honors & Awards
 Others
 ------
 I like working out and singing after work, which I've been done for a long time. I also like hiking and traveling. 
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>
