@@ -27,6 +27,10 @@ Kaiwen Zhou, Xin Eric Wang  <br />
 ECCV 2022 <br /> 
 \[[Paper](https://arxiv.org/abs/2203.14936)\]  \[[Source](https://github.com/eric-ai-lab/FedVLN)\] <br /> 
 
+**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**  <br /> 
+Kaizhi Zheng, Kaiwen Zhou, Jing Gu, Yue Fan, Jialu Wang, Zonglin Li, Xuehai He, Xin Eric Wang <br /> 
+\[[Paper](https://arxiv.org/abs/2208.13266)\]
+
 Honors & Awards
 ======
 1. Outstanding graduate in Zhejiang University. 2021
