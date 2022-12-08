@@ -29,8 +29,12 @@ ECCV 2022 <br />
 
 **JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**  <br /> 
 Kaizhi Zheng, Kaiwen Zhou, Jing Gu, Yue Fan, Jialu Wang, Zonglin Li, Xuehai He, Xin Eric Wang <br /> 
-\[[Paper](https://arxiv.org/abs/2208.13266)\]
+In arxiv <br /> 
+\[[Paper](https://arxiv.org/abs/2208.13266)\] <br /> 
 
+**Navigation as the Attacker Wishes? Towards Building Byzantine-Robust Embodied Agents under Federated Learning** <br /> 
+In arxiv <br /> 
+\[[Paper](https://arxiv.org/pdf/2211.14769.pdf)\]
 Honors & Awards
 ======
 1. Outstanding graduate in Zhejiang University. 2021
