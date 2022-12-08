@@ -33,6 +33,7 @@ In arxiv <br />
 \[[Paper](https://arxiv.org/abs/2208.13266)\] <br /> 
 
 **Navigation as the Attacker Wishes? Towards Building Byzantine-Robust Embodied Agents under Federated Learning** <br /> 
+Yunchao Zhang, Zonglin Di, Kaiwen Zhou, Cihang Xie, Xin Eric Wang <br /> 
 In arxiv <br /> 
 \[[Paper](https://arxiv.org/pdf/2211.14769.pdf)\]
 
