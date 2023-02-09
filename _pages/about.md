@@ -22,6 +22,11 @@ News
 
 Publication
 ======
+**ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**  <br /> 
+Kaiwen Zhou, Kaizhi Zheng, Connor Pryor, Yilin Shen, Hongxia Jin, Lise Getoor, Xin Eric Wang  <br /> 
+Arxiv <br /> 
+\[[Paper](https://arxiv.org/abs/2301.13166)\] <br /> 
+
 **FedVLN: Privacy-preserving Federated Vision-and-Language Navigation**  <br /> 
 Kaiwen Zhou, Xin Eric Wang  <br /> 
 ECCV 2022 <br /> 
@@ -29,12 +34,12 @@ ECCV 2022 <br />
 
 **JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**  <br /> 
 Kaizhi Zheng, Kaiwen Zhou, Jing Gu, Yue Fan, Jialu Wang, Zonglin Li, Xuehai He, Xin Eric Wang <br /> 
-In arxiv <br /> 
+Arxiv <br /> 
 \[[Paper](https://arxiv.org/abs/2208.13266)\] <br /> 
 
 **Navigation as the Attacker Wishes? Towards Building Byzantine-Robust Embodied Agents under Federated Learning** <br /> 
 Yunchao Zhang, Zonglin Di, Kaiwen Zhou, Cihang Xie, Xin Eric Wang <br /> 
-In arxiv <br /> 
+Arxiv <br /> 
 \[[Paper](https://arxiv.org/pdf/2211.14769.pdf)\]
 
 Honors & Awards
