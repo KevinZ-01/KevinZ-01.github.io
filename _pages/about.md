@@ -16,6 +16,7 @@ I'm interested in problems on improving the performance and promoting the applic
 
 News
 ======
+* Our ESC paper is accepted by ICML 2023!(04/2023)
 * I joined Honda Research Institute as research intern this summer!(04/2023)
 * Our paper FedVLN is accepted by ECCV 2022!(07/2022)
 * We are ranking No.1 in [Alexa Prize SimBot Public Benchmark Challenge](https://eval.ai/web/challenges/challenge-page/1450/leaderboard/3644)!(04/2022)
@@ -25,7 +26,7 @@ Publication
 ======
 **ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**  <br /> 
 Kaiwen Zhou, Kaizhi Zheng, Connor Pryor, Yilin Shen, Hongxia Jin, Lise Getoor, Xin Eric Wang  <br /> 
-Arxiv <br /> 
+ICML 2023 <br /> 
 \[[Paper](https://arxiv.org/abs/2301.13166)\] <br /> 
 
 **FedVLN: Privacy-preserving Federated Vision-and-Language Navigation**  <br /> 
