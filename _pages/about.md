@@ -16,8 +16,9 @@ I'm interested in problems on improving the performance and promoting the applic
 
 News
 ======
+* Our SlugJARVIS team won the third place in first-ever [Amazon Alexa SimBot challenge](https://www.linkedin.com/feed/update/urn:li:activity:7072693926784077824/)! (06/2023)
 * Our ESC paper is accepted by ICML 2023!(04/2023)
-* I joined Honda Research Institute as research intern this summer!(04/2023)
+* I will join Honda Research Institute as research intern this spring and summer!(04/2023)
 * Our paper FedVLN is accepted by ECCV 2022!(07/2022)
 * We are ranking No.1 in [Alexa Prize SimBot Public Benchmark Challenge](https://eval.ai/web/challenges/challenge-page/1450/leaderboard/3644)!(04/2022)
 * I will join Samsung AI center as research intern this summer!(04/2022)
