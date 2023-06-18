@@ -28,7 +28,7 @@ Publication
 **ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**  <br /> 
 Kaiwen Zhou, Kaizhi Zheng, Connor Pryor, Yilin Shen, Hongxia Jin, Lise Getoor, Xin Eric Wang  <br /> 
 ICML 2023 <br /> 
-\[[Paper](https://arxiv.org/abs/2301.13166)\] <br /> 
+\[[Paper](https://arxiv.org/abs/2301.13166)\] \[[Website](https://sites.google.com/ucsc.edu/escnav/home)\]<br /> 
 
 **FedVLN: Privacy-preserving Federated Vision-and-Language Navigation**  <br /> 
 Kaiwen Zhou, Xin Eric Wang  <br /> 
