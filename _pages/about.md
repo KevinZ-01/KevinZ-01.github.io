@@ -28,7 +28,8 @@ Publication
 
 **ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models**  <br /> 
 Kaiwen Zhou, Kwonjoon Lee, Teruhisa Misu, Xin Eric Wang  <br /> 
-Preprint
+Preprint <br /> 
+\[[Paper](https://arxiv.org/pdf/2310.05872.pdf)\]
 
 **ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**  <br /> 
 Kaiwen Zhou, Kaizhi Zheng, Connor Pryor, Yilin Shen, Hongxia Jin, Lise Getoor, Xin Eric Wang  <br /> 
@@ -42,9 +43,8 @@ ECCV 2022 <br />
 
 **JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**  <br /> 
 Kaizhi Zheng*, Kaiwen Zhou*, Jing Gu*, Yue Fan*, Zonglin Di*, Jialu Wang, Xuehai He, Xin Eric Wang <br /> 
-Arxiv <br /> 
-SoCal NLP 2022
-Winner Model of the Alexa Prize SimBot Public Benchmark Challenge
+SoCal NLP 2022  <br /> 
+Winner Model of the Alexa Prize SimBot Public Benchmark Challenge  <br /> 
 \[[Paper](https://arxiv.org/abs/2208.13266)\] <br /> 
 
 **Navigation as the Attacker Wishes? Towards Building Byzantine-Robust Embodied Agents under Federated Learning** <br /> 
@@ -54,7 +54,7 @@ Preprint <br />
 
 Service
 ======
-Reviewer
+Reviewer  <br /> 
 ICCV CLVL 2023, NeurIPS 2023, ICLR 2024
 
 
