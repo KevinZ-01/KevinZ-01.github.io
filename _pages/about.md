@@ -42,7 +42,7 @@ ECCV 2022 <br />
 \[[Paper](https://arxiv.org/abs/2203.14936)\]  \[[Source](https://github.com/eric-ai-lab/FedVLN)\] <br /> 
 
 **JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**  <br /> 
-Kaizhi Zheng*, Kaiwen Zhou*, Jing Gu*, Yue Fan*, Zonglin Di*, Jialu Wang, Xuehai He, Xin Eric Wang <br /> 
+Kaizhi Zheng\*, Kaiwen Zhou\*, Jing Gu\*, Yue Fan\*, Zonglin Di\*, Jialu Wang, Xuehai He, Xin Eric Wang <br /> 
 SoCal NLP 2022  <br /> 
 Winner Model of the Alexa Prize SimBot Public Benchmark Challenge  <br /> 
 \[[Paper](https://arxiv.org/abs/2208.13266)\] <br /> 
