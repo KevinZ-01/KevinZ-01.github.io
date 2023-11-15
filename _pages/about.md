@@ -12,7 +12,7 @@ This is Kaiwen Zhou, a third-year Ph.D student at the University of California, 
 
 Research Interest
 ======
-I'm interested in multi-modal learning, foundation models, LLMs, and embodied AI. 
+My research interest is in the intersection between multi-modal, foundation models, and embodied AI. 
 
 News
 ======
