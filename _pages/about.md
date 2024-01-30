@@ -25,6 +25,10 @@ News
 
 Publication
 ======
+**Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA**
+Yue Fan, Jing Gu, Kaiwen Zhou, Qianqi Yan, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang <br /> 
+Preprint <br /> 
+\[[Paper](https://arxiv.org/abs/2401.15847)\] \[[Website](https://sites.google.com/view/multipanelvqa/home)\]
 
 **ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models**  <br /> 
 Kaiwen Zhou, Kwonjoon Lee, Teruhisa Misu, Xin Eric Wang  <br /> 
