@@ -25,7 +25,7 @@ News
 
 Publication
 ======
-**Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA**
+**Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA** <br />
 Yue Fan, Jing Gu, Kaiwen Zhou, Qianqi Yan, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang <br /> 
 Preprint <br /> 
 \[[Paper](https://arxiv.org/abs/2401.15847)\] \[[Website](https://sites.google.com/view/multipanelvqa/home)\]
