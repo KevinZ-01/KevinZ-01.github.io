@@ -16,6 +16,7 @@ My research interest is in the intersection between multi-modal, foundation mode
 
 News
 ======
+* One paper is accepted by NAACL 2024!(03/2024)
 * Our SlugJARVIS team won the third place in the first-ever [Amazon Alexa SimBot challenge](https://www.linkedin.com/feed/update/urn:li:activity:7072693926784077824/)! (06/2023)
 * Our ESC paper is accepted by ICML 2023!(04/2023)
 * I will join Honda Research Institute as research intern this spring and summer!(04/2023)
@@ -29,6 +30,11 @@ Publication
 Yue Fan, Jing Gu, Kaiwen Zhou, Qianqi Yan, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang <br /> 
 Preprint <br /> 
 \[[Paper](https://arxiv.org/abs/2401.15847)\] \[[Website](https://sites.google.com/view/multipanelvqa/home)\]
+
+**Navigation as the Attacker Wishes? Towards Building Byzantine-Robust Embodied Agents under Federated Learning** <br /> 
+Yunchao Zhang, Zonglin Di, Kaiwen Zhou, Cihang Xie, Xin Eric Wang <br /> 
+NAACL 2024 <br /> 
+\[[Paper](https://arxiv.org/pdf/2211.14769.pdf)\]
 
 **ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models**  <br /> 
 Kaiwen Zhou, Kwonjoon Lee, Teruhisa Misu, Xin Eric Wang  <br /> 
@@ -50,11 +56,6 @@ Kaizhi Zheng\*, Kaiwen Zhou\*, Jing Gu\*, Yue Fan\*, Zonglin Di\*, Jialu Wang, X
 SoCal NLP 2022  <br /> 
 Winner Model of the Alexa Prize SimBot Public Benchmark Challenge  <br /> 
 \[[Paper](https://arxiv.org/abs/2208.13266)\] <br /> 
-
-**Navigation as the Attacker Wishes? Towards Building Byzantine-Robust Embodied Agents under Federated Learning** <br /> 
-Yunchao Zhang, Zonglin Di, Kaiwen Zhou, Cihang Xie, Xin Eric Wang <br /> 
-Preprint <br /> 
-\[[Paper](https://arxiv.org/pdf/2211.14769.pdf)\]
 
 Service
 ======
