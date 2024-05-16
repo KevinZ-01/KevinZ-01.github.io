@@ -16,6 +16,7 @@ My research interest is in the intersection between multi-modal, foundation mode
 
 News
 ======
+* Two papers are accepted by ACL 2024!(05/2024)
 * One paper is accepted by NAACL 2024!(03/2024)
 * Our SlugJARVIS team won the third place in the first-ever [Amazon Alexa SimBot challenge](https://www.linkedin.com/feed/update/urn:li:activity:7072693926784077824/)! (06/2023)
 * Our ESC paper is accepted by ICML 2023!(04/2023)
@@ -28,18 +29,18 @@ Publication
 ======
 **Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA** <br />
 Yue Fan, Jing Gu, Kaiwen Zhou, Qianqi Yan, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang <br /> 
-Preprint <br /> 
+ACL 2024 <br /> 
 \[[Paper](https://arxiv.org/abs/2401.15847)\] \[[Website](https://sites.google.com/view/multipanelvqa/home)\]
+
+**ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models**  <br /> 
+Kaiwen Zhou, Kwonjoon Lee, Teruhisa Misu, Xin Eric Wang  <br /> 
+Findings of ACL 2024 <br /> 
+\[[Paper](https://arxiv.org/pdf/2310.05872.pdf)\]
 
 **Navigation as the Attacker Wishes? Towards Building Byzantine-Robust Embodied Agents under Federated Learning** <br /> 
 Yunchao Zhang, Zonglin Di, Kaiwen Zhou, Cihang Xie, Xin Eric Wang <br /> 
 NAACL 2024 <br /> 
 \[[Paper](https://arxiv.org/pdf/2211.14769.pdf)\]
-
-**ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models**  <br /> 
-Kaiwen Zhou, Kwonjoon Lee, Teruhisa Misu, Xin Eric Wang  <br /> 
-Preprint <br /> 
-\[[Paper](https://arxiv.org/pdf/2310.05872.pdf)\]
 
 **ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**  <br /> 
 Kaiwen Zhou, Kaizhi Zheng, Connor Pryor, Yilin Shen, Hongxia Jin, Lise Getoor, Xin Eric Wang  <br /> 
