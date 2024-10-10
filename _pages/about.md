@@ -12,7 +12,7 @@ This is Kaiwen Zhou, a third-year Ph.D student at the University of California, 
 
 Research Interest
 ======
-My research interest is in the intersection between multi-modal, foundation models, and embodied AI. 
+My research interests include (multi-modal) LLM, embodied AI, and AI safety. 
 
 News
 ======
@@ -27,6 +27,11 @@ News
 
 Publication
 ======
+**Multimodal Situational Safety** <br />
+Kaiwen Zhou, Chengzhi Liu, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang <br /> 
+Arxiv 2024 <br /> 
+\[[Paper](https://arxiv.org/abs/2410.06172)\] \[[Website](https://mssbench.github.io/)\]
+
 **Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA** <br />
 Yue Fan, Jing Gu, Kaiwen Zhou, Qianqi Yan, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang <br /> 
 ACL 2024 <br /> 
