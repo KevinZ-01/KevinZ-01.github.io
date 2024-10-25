@@ -29,7 +29,7 @@ Publication
 ======
 **Multimodal Situational Safety** <br />
 Kaiwen Zhou, Chengzhi Liu, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang <br /> 
-Arxiv 2024 <br /> 
+NeurIPS Workshop on RBFM 2024 **Oral** <br /> 
 \[[Paper](https://arxiv.org/abs/2410.06172)\] \[[Website](https://mssbench.github.io/)\]
 
 **Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA** <br />
