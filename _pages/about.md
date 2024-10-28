@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Kaiwen Zhou, a third-year Ph.D student at the University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). I received my bachelor's degree in statistics from Zhejiang University.
+This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). I received my bachelor's degree in statistics from Zhejiang University.
 
 Research Interest
 ======
