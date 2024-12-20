@@ -12,7 +12,7 @@ This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California,
 
 Research Interest
 ======
-My research interests include (multi-modal) LLM, embodied AI, and AI safety. 
+My research interests include (multi-modal) LLM, AI agents, and AI safety. 
 
 News
 ======
