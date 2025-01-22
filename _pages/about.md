@@ -16,6 +16,7 @@ My research interests include (multi-modal) LLM, AI agents, and AI safety.
 
 News
 ======
+* Our MSSBench paper is accepted by ICLR 2025!(01/2025)
 * Two papers are accepted by ACL 2024!(05/2024)
 * One paper is accepted by NAACL 2024!(03/2024)
 * Our SlugJARVIS team won the third place in the first-ever [Amazon Alexa SimBot challenge](https://www.linkedin.com/feed/update/urn:li:activity:7072693926784077824/)! (06/2023)
@@ -28,7 +29,8 @@ News
 Publication
 ======
 **Multimodal Situational Safety** <br />
-Kaiwen Zhou, Chengzhi Liu, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang <br /> 
+Kaiwen Zhou*, Chengzhi Liu*, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang <br /> 
+ICLR 2025
 NeurIPS Workshop on RBFM 2024 **Oral** <br /> 
 \[[Paper](https://arxiv.org/abs/2410.06172)\] \[[Website](https://mssbench.github.io/)\]
 
@@ -67,9 +69,4 @@ Service
 ======
 Reviewer  <br /> 
 ICCV CLVL 2023, NeurIPS 2023, ICLR 2024, ICML 2024, ICLR 2025
-
-
-Others
-------
-I like working out and singing after work, which I've been done for a long time. I also like hiking and traveling. 
 
