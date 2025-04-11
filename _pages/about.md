@@ -16,6 +16,7 @@ My research interests include (multi-modal) LLM, AI agents, and AI safety.
 
 News
 ======
+* I will join Microsoft as a research intern this summer!(03/2025)
 * Our MSSBench paper is accepted by ICLR 2025!(01/2025)
 * Two papers are accepted by ACL 2024!(05/2024)
 * One paper is accepted by NAACL 2024!(03/2024)
@@ -24,7 +25,7 @@ News
 * I will join Honda Research Institute as research intern this spring and summer!(04/2023)
 * Our paper FedVLN is accepted by ECCV 2022!(07/2022)
 * We are ranking No.1 in [Alexa Prize SimBot Public Benchmark Challenge](https://eval.ai/web/challenges/challenge-page/1450/leaderboard/3644)!(04/2022)
-* I will join Samsung AI center as research intern this summer!(04/2022)
+* I will join Samsung AI Center as a research intern this summer!(04/2022)
 
 Publication
 ======
