@@ -12,7 +12,7 @@ This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California,
 
 Research Interest
 ======
-My research interests include (multi-modal) LLM, AI agents, and AI safety. 
+My research interests include (multi-modal) AI agents and responsible AI. 
 
 News
 ======
@@ -29,11 +29,21 @@ News
 
 Publication
 ======
+**SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning** <br />
+Kaiwen Zhou, Xuandong Zhao, Gaowen Liu, Jayanth Srinivasa, Aosong Feng, Dawn Song, Xin Eric Wang <br /> 
+Arxiv 2025 <br />
+\[[Paper](https://arxiv.org/abs/2505.16186)\] \[[Website](https://safekeylrm.github.io/)\] \[[Code](https://github.com/eric-ai-lab/SafeKey/)\] \[[Models](https://huggingface.co/collections/kzhou35/safekey-682e1fe29f845acd875c0c8c)\]
+
+**The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1** <br />
+Kaiwen Zhou, Chengzhi Liu, Xuandong Zhao, Shreedhar Jangam, Jayanth Srinivasa, Gaowen Liu, Dawn Song, Xin Eric Wang <br /> 
+Arxiv 2025 <br />
+\[[Paper](https://arxiv.org/abs/2502.12659)\] \[[Website](https://r1-safety.github.io/)\]
+
 **Multimodal Situational Safety** <br />
 Kaiwen Zhou*, Chengzhi Liu*, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang <br /> 
 ICLR 2025 <br />
 NeurIPS Workshop on RBFM 2024 **Oral** <br /> 
-\[[Paper](https://arxiv.org/abs/2410.06172)\] \[[Website](https://mssbench.github.io/)\]
+\[[Paper](https://arxiv.org/abs/2410.06172)\] \[[Website](https://mssbench.github.io/)\] \[[Code](https://github.com/eric-ai-lab/MSSBench)\] \[[Data](https://huggingface.co/datasets/kzhou35/mssbench/tree/main)\]
 
 **Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA** <br />
 Yue Fan, Jing Gu, Kaiwen Zhou, Qianqi Yan, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang <br /> 
@@ -58,7 +68,7 @@ ICML 2023 <br />
 **FedVLN: Privacy-preserving Federated Vision-and-Language Navigation**  <br /> 
 Kaiwen Zhou, Xin Eric Wang  <br /> 
 ECCV 2022 <br /> 
-\[[Paper](https://arxiv.org/abs/2203.14936)\]  \[[Source](https://github.com/eric-ai-lab/FedVLN)\] <br /> 
+\[[Paper](https://arxiv.org/abs/2203.14936)\]  \[[Code](https://github.com/eric-ai-lab/FedVLN)\] <br /> 
 
 **JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**  <br /> 
 Kaizhi Zheng\*, Kaiwen Zhou\*, Jing Gu\*, Yue Fan\*, Zonglin Di\*, Jialu Wang, Xuehai He, Xin Eric Wang <br /> 
