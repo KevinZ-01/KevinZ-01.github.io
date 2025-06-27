@@ -16,6 +16,7 @@ My research interests include (multi-modal) AI agents and responsible AI.
 
 News
 ======
+* Invited talk at Microsoft.
 * I will join Microsoft as a research intern this summer!(03/2025)
 * Our MSSBench paper is accepted by ICLR 2025!(01/2025)
 * Two papers are accepted by ACL 2024!(05/2024)
