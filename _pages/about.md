@@ -16,7 +16,7 @@ My research interests include (multi-modal) AI agents and responsible AI.
 
 News
 ======
-* Invited talk at Microsoft.
+* Invited talk at Microsoft!(06/2025)
 * I will join Microsoft as a research intern this summer!(03/2025)
 * Our MSSBench paper is accepted by ICLR 2025!(01/2025)
 * Two papers are accepted by ACL 2024!(05/2024)
@@ -41,7 +41,7 @@ Arxiv 2025 <br />
 \[[Paper](https://arxiv.org/abs/2502.12659)\] \[[Website](https://r1-safety.github.io/)\]
 
 **Multimodal Situational Safety** <br />
-Kaiwen Zhou*, Chengzhi Liu*, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang <br /> 
+Kaiwen Zhou\*, Chengzhi Liu\*, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang <br /> 
 ICLR 2025 <br />
 NeurIPS Workshop on RBFM 2024 **Oral** <br /> 
 \[[Paper](https://arxiv.org/abs/2410.06172)\] \[[Website](https://mssbench.github.io/)\] \[[Code](https://github.com/eric-ai-lab/MSSBench)\] \[[Data](https://huggingface.co/datasets/kzhou35/mssbench/tree/main)\]
