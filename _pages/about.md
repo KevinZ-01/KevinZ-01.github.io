@@ -80,5 +80,5 @@ Winner Model of the Alexa Prize SimBot Public Benchmark Challenge  <br />
 Service
 ======
 Reviewer  <br /> 
-ICCV CLVL 2023, NeurIPS 2023, ICLR 2024, ICML 2024, ICLR 2025
+NeurIPS 2023, ICLR 2024, ICML 2024, ICLR 2025
 
