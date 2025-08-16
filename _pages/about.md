@@ -11,22 +11,15 @@ redirect_from:
 This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on Responsible AI and AI agents. Below is a list of research areas I've worked on (<span style="color: red;">red</span> denotes first-author contributions):
 
 1. **LLM alignment-training**:
-
-- <span style="color: red;">SafeKey</span>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: red;">SafeKey</span>
 2. **Safety Evaluation**:
-
-- **Large Reasoning Model:** <span style="color: red;">Hidden Risks of Large Reasoning Models</span>
-- **Multimodal LLM:** <span style="color: red;">Multimodal Situational Safety</span> (ICLR 2025)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Large Reasoning Model:** <span style="color: red;">Hidden Risks of Large Reasoning Models</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Multimodal LLM:** <span style="color: red;">Multimodal Situational Safety</span> (ICLR 2025)
 3. **Trustworthy Embodied Agent**:
-
-- **Responsible Embodied Agent:** <span style="color: red;">FedVLN</span> (ECCV 2022), <span>Navigation as the Attacker Wishes</span> (NAACL 2024)
-- **LLM for Embodied Agent:** <span style="color: red;">ESC</span> (ICML 2023), <span>JARVIS</span> (NeSy 2025 Oral)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Responsible Embodied Agent:** <span style="color: red;">FedVLN</span> (ECCV 2022), <span>Navigation as the Attacker Wishes</span> (NAACL 2024)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **LLM for Embodied Agent:** <span style="color: red;">ESC</span> (ICML 2023), <span>JARVIS</span> (NeSy 2025 Oral)
 4. **Multimodal Understanding & Reasoning**:
-
-- <span style="color: red;">ViCor</span> (ACL 2024), <span>Multipanel VQA</span> (ACL 2024)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <span style="color: red;">ViCor</span> (ACL 2024), <span>Multipanel VQA</span> (ACL 2024)
 
 Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang University.
 
