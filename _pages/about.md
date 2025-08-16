@@ -12,14 +12,10 @@ This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California,
 
 1. **LLM alignment-training**:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: red;">SafeKey</span>
-2. **Safety Evaluation**:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Large Reasoning Model:** <span style="color: red;">Hidden Risks of Large Reasoning Models</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Multimodal LLM:** <span style="color: red;">Multimodal Situational Safety</span> (ICLR 2025)
-3. **Trustworthy Embodied Agent**:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Responsible Embodied Agent:** <span style="color: red;">FedVLN</span> (ECCV 2022), <span>Navigation as the Attacker Wishes</span> (NAACL 2024)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **LLM for Embodied Agent:** <span style="color: red;">ESC</span> (ICML 2023), <span>JARVIS</span> (NeSy 2025 Oral)
-4. **Multimodal Understanding & Reasoning**:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <span style="color: red;">ViCor</span> (ACL 2024), <span>Multipanel VQA</span> (ACL 2024)
+2. **Safety Evaluation**: <span style="color: red;">Hidden Risks of Large Reasoning Models</span>, <span style="color: red;">Multimodal Situational Safety</span> (ICLR 2025)
+3. **Responsible Embodied Agent**: <span style="color: red;">FedVLN</span> (ECCV 2022), <span>Navigation as the Attacker Wishes</span> (NAACL 2024)
+4. **LLM for Embodied Agent:** <span style="color: red;">ESC</span> (ICML 2023), <span>JARVIS</span> (NeSy 2025 Oral)
+5. **Multimodal Understanding & Reasoning**: <span style="color: red;">ViCor</span> (ACL 2024), <span>Multipanel VQA</span> (ACL 2024)
 
 Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang University.
 
