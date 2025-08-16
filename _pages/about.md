@@ -11,10 +11,10 @@ redirect_from:
 This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on Responsible AI and AI agents. Below is a list of research areas I've worked on (<span style="color: purple;">purple</span> denotes first-author contributions):
 
 1. **LLM alignment-training**: <a href="https://arxiv.org/abs/2505.16186" style="color: purple; text-decoration: none;">SafeKey</a>
-2. **Safety Evaluation**: <span style="color: red;">Hidden Risks of Large Reasoning Models</span>, <span style="color: red;">Multimodal Situational Safety</span> (ICLR 2025)
-3. **Responsible Embodied Agent**: <span style="color: red;">FedVLN</span> (ECCV 2022), <span>Navigation as the Attacker Wishes</span> (NAACL 2024)
-4. **LLM for Embodied Agent:** <span style="color: red;">ESC</span> (ICML 2023), <span>JARVIS</span> (NeSy 2025 Oral)
-5. **Multimodal Understanding & Reasoning**: <span style="color: red;">ViCor</span> (ACL 2024), <span>Multipanel VQA</span> (ACL 2024)
+2. **Safety Evaluation**: <span style="color: purple; text-decoration: none;">R1 Safety Eval</span>, <span style="color: purple;">Multimodal Situational Safety</span> (ICLR 2025)
+3. **Responsible Embodied Agent**: <span style="color: purple; text-decoration: none;">FedVLN</span> (ECCV 2022), <span>Navigation as the Attacker Wishes</span> (NAACL 2024)
+4. **LLM for Embodied Agent:** <span style="color: purple; text-decoration: none;">ESC</span> (ICML 2023), <span>JARVIS</span> (NeSy 2025 Oral)
+5. **Multimodal Understanding & Reasoning**: <span style="color: purple; text-decoration: none;">ViCor</span> (ACL 2024), <span>Multipanel VQA</span> (ACL 2024)
 
 Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang University.
 
