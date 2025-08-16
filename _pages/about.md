@@ -10,8 +10,7 @@ redirect_from:
 
 This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on Responsible AI and AI agents. Below is a list of research areas I've worked on (<span style="color: red;">red</span> denotes first-author contributions):
 
-1. **LLM alignment-training**:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: red;">SafeKey</span>
+1. **LLM alignment-training**: <span style="color: red;">SafeKey</span>
 2. **Safety Evaluation**: <span style="color: red;">Hidden Risks of Large Reasoning Models</span>, <span style="color: red;">Multimodal Situational Safety</span> (ICLR 2025)
 3. **Responsible Embodied Agent**: <span style="color: red;">FedVLN</span> (ECCV 2022), <span>Navigation as the Attacker Wishes</span> (NAACL 2024)
 4. **LLM for Embodied Agent:** <span style="color: red;">ESC</span> (ICML 2023), <span>JARVIS</span> (NeSy 2025 Oral)
