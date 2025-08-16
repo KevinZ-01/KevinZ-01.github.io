@@ -12,7 +12,7 @@ This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California,
 
 1. **LLM alignment-training**:
 
-<span style="color: red;">SafeKey</span>
+- <span style="color: red;">SafeKey</span>
 
 2. **Safety Evaluation**:
 
@@ -26,7 +26,7 @@ This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California,
 
 4. **Multimodal Understanding & Reasoning**:
 
-<span style="color: red;">ViCor</span> (ACL 2024), <span>Multipanel VQA</span> (ACL 2024)
+- <span style="color: red;">ViCor</span> (ACL 2024), <span>Multipanel VQA</span> (ACL 2024)
 
 Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang University.
 
