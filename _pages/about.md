@@ -10,7 +10,7 @@ redirect_from:
 
 This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California, Santa Cruz, fortunately advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on Responsible AI and AI agents. Below is a list of research areas I've worked on (<span style="color: purple;">purple</span> denotes first-author contributions):
 
-1. **LLM alignment-training**: <a href="https://arxiv.org/abs/2505.16186" style="color: purple; text-decoration: none;">SafeKey</a>
+1. **LLM alignment-training**: <a href="https://arxiv.org/abs/2505.16186" style="color: purple; text-decoration: none;">SafeKey</a> (EMNLP 2025)
 2. **Safety Evaluation**: <a href="https://arxiv.org/abs/2502.12659" style="color: purple; text-decoration: none;">R1 Safety Eval</a>, <a href="https://arxiv.org/abs/2410.06172" style="color: purple; text-decoration: none;">Multimodal Situational Safety</a> (ICLR 2025)
 3. **Responsible Embodied Agent**: <a href="https://arxiv.org/abs/2203.14936" style="color: purple; text-decoration: none;">FedVLN</a> (ECCV 2022), <a href="https://arxiv.org/pdf/2211.14769.pdf" style=" text-decoration: none;">Navigation as the Attacker Wishes</a> (NAACL 2024)
 4. **LLM for Embodied Agent:** <a href="https://arxiv.org/abs/2301.13166" style="color: purple; text-decoration: none;">ESC</a> (ICML 2023), <a href="https://arxiv.org/abs/2208.13266" style="color: purple; text-decoration: none;">JARVIS</a> (NeSy 2025 Oral)
