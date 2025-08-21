@@ -20,6 +20,7 @@ Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang
 
 News
 ======
+* Our SafeKey paper is accepted by EMNLP 2025!(08/2025)
 * Invited talk at Microsoft on safety reasoning!(06/2025)
 * I will join Microsoft as a research intern this summer!(03/2025)
 * Our MSSBench paper is accepted by ICLR 2025!(01/2025)
@@ -36,7 +37,7 @@ Publication
 ======
 **SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning** <br />
 Kaiwen Zhou, Xuandong Zhao, Gaowen Liu, Jayanth Srinivasa, Aosong Feng, Dawn Song, Xin Eric Wang <br /> 
-ICML 2025 R2-FM Workshop <br />
+EMNLP 2025 <br />
 \[[Paper](https://arxiv.org/abs/2505.16186)\] \[[Website](https://safekeylrm.github.io/)\] \[[Code](https://github.com/eric-ai-lab/SafeKey/)\] \[[Models](https://huggingface.co/collections/kzhou35/safekey-682e1fe29f845acd875c0c8c)\]
 
 **The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1** <br />
