@@ -33,7 +33,7 @@ News
 * We are ranking No.1 in [Alexa Prize SimBot Public Benchmark Challenge](https://eval.ai/web/challenges/challenge-page/1450/leaderboard/3644)!(04/2022)
 * I will join Samsung AI Center as a research intern this summer!(04/2022)
 
-Publication
+Selected Publications
 ======
 **SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning** <br />
 Kaiwen Zhou, Xuandong Zhao, Gaowen Liu, Jayanth Srinivasa, Aosong Feng, Dawn Song, Xin Eric Wang <br /> 
