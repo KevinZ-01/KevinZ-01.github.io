@@ -18,7 +18,7 @@ This is Kaiwen Zhou, a fourth-year Ph.D student at the University of California,
 
 Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang University.
 
-**<span style="color: red;">I am on the job market this year. I would be happy to discuss any opportunities that may be a good fit.</span>**
+**<span style="color: red;">I am now on the job market! I would be happy to discuss any opportunities that may be a good fit.</span>**
 
 News
 ======
