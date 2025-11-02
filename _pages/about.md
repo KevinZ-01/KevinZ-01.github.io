@@ -24,6 +24,7 @@ News
 ======
 * Our SafeKey paper is accepted by EMNLP 2025!(08/2025)
 * Invited talk at Microsoft on safety reasoning!(06/2025)
+* Honored to receive UCSC Dissertation-Year Fellowship to support my research on Trustworthy AI!
 * I will join Microsoft as a research intern this summer!(03/2025)
 * Our MSSBench paper is accepted by ICLR 2025!(01/2025)
 * Two papers are accepted by ACL 2024!(05/2024)
