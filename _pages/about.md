@@ -39,6 +39,7 @@ Selected Publications
 ======
 **SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning** <br />
 **Kaiwen Zhou**, Ahmed Elgohary, A S M Iftekhar, Amin Saied <br />
+NeurIPS 2025 Lock-LLM Workshop
 \[[Paper](https://arxiv.org/abs/2510.26037)\]
 
 **Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations** <br />
