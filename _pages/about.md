@@ -37,8 +37,8 @@ News
 
 Selected Publications
 ======
-**SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning**
-**Kaiwen Zhou**, Ahmed Elgohary, A S M Iftekhar, Amin Saied
+**SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning** <br />
+**Kaiwen Zhou**, Ahmed Elgohary, A S M Iftekhar, Amin Saied <br />
 \[[Paper](https://arxiv.org/abs/2510.26037)\]
 
 **Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations** <br />
