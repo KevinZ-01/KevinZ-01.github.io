@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Kaiwen Zhou, a final-year Ph.D student at the University of California, Santa Cruz, fortunately advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on **Responsible AI and AI agents**, aiming to build **Safe, Aligned, and Reliable AI agents** in the long run. Below is a list of research areas I've worked on (<span style="color: purple;">purple</span> denotes first-author contributions):
+This is Kaiwen Zhou, a final-year Ph.D student at the University of California, Santa Cruz, fortunately advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on **Responsible AI and AI agents**, aiming to build **Safe, Aligned, and Reliable AI** in the long run. Below is a list of research areas I've worked on (<span style="color: purple;">purple</span> denotes first-author contributions):
 
 1. **LLM Alignment Training**: <a href="https://arxiv.org/abs/2505.16186" style="color: purple; text-decoration: none;">SafeKey</a> (EMNLP 2025)
 2. **Safety Evaluation and Red-teaming**: <a href="https://arxiv.org/abs/2502.12659" style="color: purple; text-decoration: none;">R1 Safety Eval</a> (IJCNLP-AACL 2025), <a href="https://arxiv.org/abs/2410.06172" style="color: purple; text-decoration: none;">Multimodal Situational Safety</a> (ICLR 2025), <a href="https://arxiv.org/abs/2510.26037" style="color: purple; text-decoration: none;">SIRAJ</a>
