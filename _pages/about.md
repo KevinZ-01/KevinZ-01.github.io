@@ -100,3 +100,6 @@ Service
 Reviewer  <br /> 
 NeurIPS 2023, ICLR 2024, ICML 2024, ICLR 2025, ICLR 2026
 
+Area Chair  <br /> 
+ARR Oct 2025
+
