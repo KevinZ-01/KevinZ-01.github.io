@@ -22,6 +22,7 @@ Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang
 
 News
 ======
+* Our SIRAJ paper is acceepted by EACL 2026 findings!(01/2026)
 * Our SafeKey paper is accepted by EMNLP 2025!(08/2025)
 * Invited talk at Microsoft on safety reasoning!(06/2025)
 * Honored to receive UCSC Dissertation-Year Fellowship to support my research on Trustworthy AI!(06/2025)
@@ -40,7 +41,7 @@ Selected Publications
 ======
 **SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning** <br />
 **Kaiwen Zhou**, Ahmed Elgohary, A S M Iftekhar, Amin Saied <br />
-NeurIPS 2025 Lock-LLM Workshop <br />
+EACL 2026 Findings <br />
 \[[Paper](https://arxiv.org/abs/2510.26037)\]
 
 **Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations** <br />
