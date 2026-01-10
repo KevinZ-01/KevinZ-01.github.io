@@ -33,7 +33,7 @@ News
 * One paper is accepted by NAACL 2024!(03/2024)
 * Our SlugJARVIS team won the third place in the first-ever [Amazon Alexa SimBot challenge](https://www.linkedin.com/feed/update/urn:li:activity:7072693926784077824/)! (06/2023)
 * Our ESC paper is accepted by ICML 2023!(04/2023)
-....
+* ....
 
 Selected Publications
 ======
