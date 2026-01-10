@@ -23,6 +23,7 @@ Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang
 News
 ======
 * Our SIRAJ paper is acceepted by EACL 2026 findings!(01/2026)
+* Selected for MATS and the Anthropic Fellows Program for AI Safety Research (12/2025)
 * Our SafeKey paper is accepted by EMNLP 2025!(08/2025)
 * Invited talk at Microsoft on safety reasoning!(06/2025)
 * Honored to receive UCSC Dissertation-Year Fellowship to support my research on Trustworthy AI!(06/2025)
@@ -32,10 +33,7 @@ News
 * One paper is accepted by NAACL 2024!(03/2024)
 * Our SlugJARVIS team won the third place in the first-ever [Amazon Alexa SimBot challenge](https://www.linkedin.com/feed/update/urn:li:activity:7072693926784077824/)! (06/2023)
 * Our ESC paper is accepted by ICML 2023!(04/2023)
-* I will join Honda Research Institute as research intern this spring and summer!(04/2023)
-* Our paper FedVLN is accepted by ECCV 2022!(07/2022)
-* We are ranking No.1 in [Alexa Prize SimBot Public Benchmark Challenge](https://eval.ai/web/challenges/challenge-page/1450/leaderboard/3644)!(04/2022)
-* I will join Samsung AI Center as a research intern this summer!(04/2022)
+....
 
 Selected Publications
 ======
