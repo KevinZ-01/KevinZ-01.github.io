@@ -23,7 +23,7 @@ Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang
 News
 ======
 * Our SIRAJ paper is acceepted by EACL 2026 findings!(01/2026)
-* Selected for MATS and the Anthropic Fellows Program for AI Safety Research (12/2025)
+* <span style="color: red;">Selected for MATS and the Anthropic Fellows Program for AI Safety Research!</span> (12/2025)
 * Our SafeKey paper is accepted by EMNLP 2025!(08/2025)
 * Invited talk at Microsoft on safety reasoning!(06/2025)
 * Honored to receive UCSC Dissertation-Year Fellowship to support my research on Trustworthy AI!(06/2025)
