@@ -37,6 +37,11 @@ News
 
 Selected Publications
 ======
+**SafePro: Evaluating the Safety of Professional-Level AI Agents** <br />
+**Kaiwen Zhou**, Shreedhar Jangam*, Ashwin Nagarajan*, Tejas Polu*, Suhas Oruganti, Chengzhi Liu, Ching-Chen Kuo, Yuting Zheng, Sravana Narayanaraju, Xin Eric Wang <br />
+Arxiv 2026 <br />
+\[[Paper](https://arxiv.org/abs/2601.06663)\] \[[Website](https://safeprobench.github.io/safepro/)\] \[[Code](https://github.com/eric-ai-lab/SafePro)\] \[[Data](https://github.com/eric-ai-lab/SafePro)\]
+
 **SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning** <br />
 **Kaiwen Zhou**, Ahmed Elgohary, A S M Iftekhar, Amin Saied <br />
 EACL 2026 Findings <br />
