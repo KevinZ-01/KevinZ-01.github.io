@@ -13,7 +13,7 @@ This is Kaiwen Zhou, a final-year Ph.D student at the University of California, 
 1. **LLM Post-training (SFT&RL)**: <a href="https://arxiv.org/abs/2505.16186" style="color: purple; text-decoration: none;">SafeKey</a> (EMNLP 2025), <a href="https://arxiv.org/abs/2510.26037" style="color: purple; text-decoration: none;">SIRAJ</a> (EACL 2026 Findings)
 2. **Safety Evaluation and Red-teaming**: <a href="https://arxiv.org/abs/2502.12659" style="color: purple; text-decoration: none;">R1 Safety Eval</a> (IJCNLP-AACL 2025), <a href="https://arxiv.org/abs/2410.06172" style="color: purple; text-decoration: none;">Multimodal Situational Safety</a> (ICLR 2025), <a href="https://arxiv.org/abs/2601.06663" style="color: purple; text-decoration: none;">SafePro</a>
 3. **Responsible Embodied Agent**: <a href="https://arxiv.org/abs/2203.14936" style="color: purple; text-decoration: none;">FedVLN</a> (ECCV 2022), <a href="https://arxiv.org/pdf/2211.14769.pdf" style=" text-decoration: none;">Navigation as the Attacker Wishes</a> (NAACL 2024)
-4. **AI Agents:** <a href="https://arxiv.org/abs/2301.13166" style="color: purple; text-decoration: none;">ESC</a> (ICML 2023), <a href="https://arxiv.org/abs/2208.13266" style="color: purple; text-decoration: none;">JARVIS</a> (NeSy 2025 Oral), <a href="https://arxiv.org/abs/2510.05571" style=" text-decoration: none;">EvoPresent</a>
+4. **AI Agents:** <a href="https://arxiv.org/abs/2301.13166" style="color: purple; text-decoration: none;">ESC</a> (ICML 2023), <a href="https://arxiv.org/abs/2208.13266" style="color: purple; text-decoration: none;">JARVIS</a> (NeSy 2025 Oral), <a href="https://arxiv.org/abs/2510.05571" style=" text-decoration: none;">EvoPresent</a> (ICLR 2026)
 5. **Multimodal Understanding & Reasoning**: <a href="https://arxiv.org/pdf/2310.05872.pdf" style="color: purple; text-decoration: none;">ViCor</a> (ACL Findings 2024), <a href="https://arxiv.org/abs/2401.15847" style="text-decoration: none;">Multipanel VQA</a> (ACL 2024)
 
 Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang University.
@@ -22,7 +22,8 @@ Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang
 
 News
 ======
-* Our SIRAJ paper is acceepted by EACL 2026 findings!(01/2026)
+* Two papers accepted by ICLR 2026!(01/2026)
+* Our SIRAJ paper is accepted by EACL 2026 findings!(01/2026)
 * <span style="color: red;">Selected for MATS and the Anthropic Fellows Program for AI Safety Research!</span> (12/2025)
 * Our SafeKey paper is accepted by EMNLP 2025!(08/2025)
 * Invited talk at Microsoft on safety reasoning!(06/2025)
@@ -49,7 +50,7 @@ EACL 2026 Findings <br />
 
 **Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations** <br />
 Chengzhi Liu\*, Yuzhe Yang\*, **Kaiwen Zhou**, Zhen Zhang, Yue Fan, Yannan Xie, Peng Qi, Xin Eric Wang <br /> 
-Arxiv 2025 <br />
+ICLR 2026 <br />
 \[[Paper](https://arxiv.org/pdf/2510.05571)\] \[[Website](https://evopresent.github.io/)\] \[[Code](https://github.com/eric-ai-lab/EvoPresent)\] \[[Data](https://huggingface.co/datasets/TobyYang7/EvoPresent)\]
 
 **SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning** <br />
