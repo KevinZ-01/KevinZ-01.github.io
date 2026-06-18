@@ -18,8 +18,6 @@ This is Kaiwen Zhou, currently a MATS fellow working with Anthropic. I'm also a 
 
 Before joining UCSC, I received my bachelor's degree in statistics from Zhejiang University.
 
-**<span style="color: red;">I am now on the job market! I would be happy to discuss any opportunities that may be a good fit.</span>**
-
 News
 ======
 * Two papers accepted by ICLR 2026!(01/2026)
