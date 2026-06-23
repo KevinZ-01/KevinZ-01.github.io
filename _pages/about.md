@@ -36,6 +36,11 @@ News
 
 Selected Publications
 ======
+**Probing the Misaligned Thinking Process of Language Models** <br />
+**Kaiwen Zhou**, Constantin Venhoff, Jonathan Michala, Xin Eric Wang, William Saunders <br />
+Mechanistic Interpretability Workshop ICML 2026 Poster <br />
+\[[Paper](https://openreview.net/forum?id=Znt7XOzYiH)\] \[[Website](https://probe-misalignment.github.io/)\] \[[Code](https://github.com/safety-research/misalignment-indicators)\] \[[Data](https://huggingface.co/datasets/kzhou35/misalignment-indicators-bloom-rollouts)\]
+
 **SafePro: Evaluating the Safety of Professional-Level AI Agents** <br />
 **Kaiwen Zhou**, Shreedhar Jangam*, Ashwin Nagarajan*, Tejas Polu*, Suhas Oruganti, Chengzhi Liu, Ching-Chen Kuo, Yuting Zheng, Sravana Narayanaraju, Xin Eric Wang <br />
 Arxiv 2026 <br />
