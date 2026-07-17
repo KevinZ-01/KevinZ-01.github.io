@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Kaiwen Zhou, currently a Research Scientist at Scale AI working on AI safety. Previously, I was a MATS and Anthropic Safety fellow. I earned my Ph.D UC Santa Cruz working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/), and my bachelor's degree in statistics from Zhejiang University. Below is a list of research areas I've worked on (<span style="color: purple;">purple</span> denotes first-author contributions):
+This is Kaiwen Zhou, currently a MATS fellow working with Anthropic. I'm also a final-year Ph.D student at the University of California, Santa Cruz, fortunately advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on **AI safety and alignment**. Below is a list of research areas I've worked on (<span style="color: purple;">purple</span> denotes first-author contributions):
 
 1. **LLM Post-training (SFT&RL)**: <a href="https://arxiv.org/abs/2505.16186" style="color: purple; text-decoration: none;">SafeKey</a> (EMNLP 2025), <a href="https://arxiv.org/abs/2510.26037" style="color: purple; text-decoration: none;">SIRAJ</a> (EACL 2026 Findings)
 2. **Safety Evaluation and Red-teaming**: <a href="https://arxiv.org/abs/2502.12659" style="color: purple; text-decoration: none;">R1 Safety Eval</a> (IJCNLP-AACL 2025), <a href="https://arxiv.org/abs/2410.06172" style="color: purple; text-decoration: none;">Multimodal Situational Safety</a> (ICLR 2025), <a href="https://arxiv.org/abs/2601.06663" style="color: purple; text-decoration: none;">SafePro</a>
