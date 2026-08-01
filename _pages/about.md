@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Kaiwen Zhou, currently a MATS fellow working with Anthropic. I'm also a final-year Ph.D student at the University of California, Santa Cruz, fortunately advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on **AI safety and alignment**. Below is a list of research areas I've worked on (<span style="color: purple;">purple</span> denotes first-author contributions):
+This is Kaiwen Zhou, currently a research scientist at Scale AI, working on frontier AI safety. I was a MATS & Anthropic Safety Fellow. I received my Ph.D at the University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on **AI safety and alignment**. Below is a list of research areas I've worked on (<span style="color: purple;">purple</span> denotes first-author contributions):
 
 1. **LLM Post-training (SFT&RL)**: <a href="https://arxiv.org/abs/2505.16186" style="color: purple; text-decoration: none;">SafeKey</a> (EMNLP 2025), <a href="https://arxiv.org/abs/2510.26037" style="color: purple; text-decoration: none;">SIRAJ</a> (EACL 2026 Findings)
 2. **Safety Evaluation and Red-teaming**: <a href="https://arxiv.org/abs/2502.12659" style="color: purple; text-decoration: none;">R1 Safety Eval</a> (IJCNLP-AACL 2025), <a href="https://arxiv.org/abs/2410.06172" style="color: purple; text-decoration: none;">Multimodal Situational Safety</a> (ICLR 2025), <a href="https://arxiv.org/abs/2601.06663" style="color: purple; text-decoration: none;">SafePro</a>
@@ -18,6 +18,7 @@ This is Kaiwen Zhou, currently a MATS fellow working with Anthropic. I'm also a 
 
 News
 ======
+* I have joined Scale AI as a Research Scientist!(06/2026)
 * Two papers accepted by ICLR 2026!(01/2026)
 * Our SIRAJ paper is accepted by EACL 2026 findings!(01/2026)
 * <span style="color: red;">Selected for MATS and the Anthropic Fellows Program for AI Safety Research!</span> (12/2025)
