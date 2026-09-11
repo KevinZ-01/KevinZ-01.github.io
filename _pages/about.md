@@ -18,6 +18,7 @@ This is Kaiwen Zhou, currently a research scientist at Scale AI, working on fron
 
 News
 ======
+* Invited talk at CMU! (09/2026)
 * I have joined Scale AI as a Research Scientist!(06/2026)
 * Two papers accepted by ICLR 2026!(01/2026)
 * Our SIRAJ paper is accepted by EACL 2026 findings!(01/2026)
