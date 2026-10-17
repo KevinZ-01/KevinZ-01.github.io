@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Kaiwen Zhou, currently a research scientist at Scale AI, working on frontier AI safety. I was a MATS & Anthropic Safety Fellow. I received my Ph.D at the University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on **AI safety and alignment**. Below is a list of research areas I've worked on (<span style="color: purple;">purple</span> denotes first-author contributions):
+This is Kaiwen Zhou, currently a research scientist at Scale AI, working on frontier AI safety. I was a MATS & Anthropic Safety Fellow. I received my Ph.D at the University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). My current research focuses on **AI safety and alignment**. Highlight past research that I led:
 
-1. **LLM Post-training (SFT&RL)**: <a href="https://arxiv.org/abs/2505.16186" style="color: purple; text-decoration: none;">SafeKey</a> (EMNLP 2025), <a href="https://arxiv.org/abs/2510.26037" style="color: purple; text-decoration: none;">SIRAJ</a> (EACL 2026 Findings)
-2. **Safety Evaluation and Red-teaming**: <a href="https://arxiv.org/abs/2502.12659" style="color: purple; text-decoration: none;">R1 Safety Eval</a> (IJCNLP-AACL 2025), <a href="https://arxiv.org/abs/2410.06172" style="color: purple; text-decoration: none;">Multimodal Situational Safety</a> (ICLR 2025), <a href="https://arxiv.org/abs/2601.06663" style="color: purple; text-decoration: none;">SafePro</a>
-3. **Responsible Embodied Agent**: <a href="https://arxiv.org/abs/2203.14936" style="color: purple; text-decoration: none;">FedVLN</a> (ECCV 2022), <a href="https://arxiv.org/pdf/2211.14769.pdf" style=" text-decoration: none;">Navigation as the Attacker Wishes</a> (NAACL 2024)
-4. **AI Agents:** <a href="https://arxiv.org/abs/2301.13166" style="color: purple; text-decoration: none;">ESC</a> (ICML 2023), <a href="https://arxiv.org/abs/2208.13266" style="color: purple; text-decoration: none;">JARVIS</a> (NeSy 2025 Oral), <a href="https://arxiv.org/abs/2510.05571" style=" text-decoration: none;">EvoPresent</a> (ICLR 2026)
-5. **Multimodal Understanding & Reasoning**: <a href="https://arxiv.org/pdf/2310.05872.pdf" style="color: purple; text-decoration: none;">ViCor</a> (ACL Findings 2024), <a href="https://arxiv.org/abs/2401.15847" style="text-decoration: none;">Multipanel VQA</a> (ACL 2024)
+1. <a href="https://arxiv.org/abs/2502.12659" style="color: purple; text-decoration: none;">**R1 Safety Eval**</a> (IJCNLP-AACL 2025), <a href="https://arxiv.org/abs/2505.16186" style="color: purple; text-decoration: none;">**SafeKey**</a> (EMNLP 2025): Two of the first works on reasoning model safety. 
+2. <a href="https://arxiv.org/abs/2410.06172" style="color: purple; text-decoration: none;">**Multimodal Situational Safety**</a> (ICLR 2025): One of the first works on embodied AI safety.
+3. <a href="https://arxiv.org/abs/2301.13166" style="color: purple; text-decoration: none;">**ESC**</a> (ICML 2023): One of the first works on LLM for Embodied AI.
 
 News
 ======
