@@ -2,6 +2,15 @@
 # `abbr` is the short venue badge; `note` is an extra line (awards, workshops, ...).
 # Use * after a name for equal contribution. Your name is highlighted automatically.
 
+- title: "RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?"
+  authors: Kaiwen Zhou, Udari Madhushani Sehwag
+  venue: arXiv 2026
+  abbr: arXiv
+  year: 2026
+  selected: true
+  links:
+    Paper: https://arxiv.org/abs/2610.27735
+
 - title: Probing the Misaligned Thinking Process of Language Models
   authors: Kaiwen Zhou, Constantin Venhoff, Jonathan Michala, Xin Eric Wang, William Saunders
   venue: Mechanistic Interpretability Workshop @ ICML 2026
@@ -45,6 +54,14 @@
     Website: https://evopresent.github.io/
     Code: https://github.com/eric-ai-lab/EvoPresent
     Data: https://huggingface.co/datasets/TobyYang7/EvoPresent
+
+- title: "\"PhyWorldBench\": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models"
+  authors: Jing Gu, Xian Liu, Yu Zeng, Ashwin Nagarajan, Fangrui Zhu, Daniel Hong, Yue Fan, Qianqi Yan, Kaiwen Zhou, Ming-Yu Liu, Xin Eric Wang
+  venue: ICLR 2026 — **Oral**
+  abbr: ICLR
+  year: 2026
+  links:
+    Paper: https://arxiv.org/abs/2507.13428
 
 - title: "SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning"
   authors: Kaiwen Zhou, Xuandong Zhao, Gaowen Liu, Jayanth Srinivasa, Aosong Feng, Dawn Song, Xin Eric Wang
@@ -121,6 +138,7 @@
   venue: ECCV 2022
   abbr: ECCV
   year: 2022
+  selected: true
   links:
     Paper: https://arxiv.org/abs/2203.14936
     Code: https://github.com/eric-ai-lab/FedVLN
