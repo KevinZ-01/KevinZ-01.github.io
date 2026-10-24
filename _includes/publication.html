@@ -1,0 +1,22 @@
+{%- assign p = include.pub -%}
+<li class="pub">
+  <div class="pub-badge"><span class="badge">{{ p.abbr }}</span></div>
+  <div class="pub-body">
+    <div class="pub-title">{{ p.title }}</div>
+    <div class="pub-authors">
+      {%- assign authors = p.authors | split: ", " -%}
+      {%- for a in authors -%}
+        {%- assign bare = a | remove: "*" -%}
+        {%- if bare == site.self_name -%}<em class="me">{{ a }}</em>{%- else -%}{{ a }}{%- endif -%}
+        {%- unless forloop.last %}, {% endunless -%}
+      {%- endfor -%}
+    </div>
+    <div class="pub-venue">{{ p.venue | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div>
+    {%- if p.note %}<div class="pub-note">{{ p.note | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div>{% endif %}
+    {%- if p.links %}
+    <div class="pub-links">
+      {%- for l in p.links %}<a class="btn" href="{{ l[1] }}" target="_blank" rel="noopener">{{ l[0] }}</a>{% endfor -%}
+    </div>
+    {%- endif %}
+  </div>
+</li>

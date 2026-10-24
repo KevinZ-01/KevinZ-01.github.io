@@ -1,0 +1,75 @@
+---
+layout: default
+title: about
+---
+{%- assign months = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," -%}
+
+<header class="post-header">
+  <h1 class="post-title"><span class="first">{{ site.first_name }}</span> {{ site.last_name }}</h1>
+  <p class="desc">{{ site.subtitle }}</p>
+</header>
+
+<article class="about">
+  <div class="profile">
+    <img src="{{ site.avatar | relative_url }}" alt="Photo of {{ site.title }}">
+    <div class="contact">
+      <p><i class="fa-solid fa-envelope"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p><i class="fa-solid fa-location-dot"></i> {{ site.location }}</p>
+    </div>
+  </div>
+
+  <div class="bio">
+{% capture bio %}
+I am a Research Scientist at [**Scale AI**](https://scale.com/), working on frontier **AI safety and alignment**. Previously, I was a [MATS](https://www.matsprogram.org/) & [Anthropic](https://www.anthropic.com/) Safety Fellow. I received my Ph.D. from the University of California, Santa Cruz, advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/).
+
+Highlights of past research I led:
+
+- **Reasoning model safety** — [R1 Safety Eval](https://arxiv.org/abs/2502.12659) (IJCNLP-AACL 2025) and [SafeKey](https://arxiv.org/abs/2505.16186) (EMNLP 2025), two of the first works on the safety of large reasoning models.
+- **Embodied AI safety** — [Multimodal Situational Safety](https://arxiv.org/abs/2410.06172) (ICLR 2025), one of the first works on embodied AI safety.
+- **LLMs for embodied AI** — [ESC](https://arxiv.org/abs/2301.13166) (ICML 2023), one of the first works on LLMs for embodied agents.
+{% endcapture %}
+{{ bio | markdownify }}
+  </div>
+
+  <div class="social">
+    <a href="mailto:{{ site.email }}" title="Email"><i class="fa-solid fa-envelope"></i></a>
+    <a href="https://scholar.google.com/citations?user={{ site.socials.scholar }}" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://github.com/{{ site.socials.github }}" target="_blank" rel="noopener" title="GitHub"><i class="fa-brands fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/{{ site.socials.linkedin }}" target="_blank" rel="noopener" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="{{ site.cv | relative_url }}" target="_blank" rel="noopener" title="CV"><i class="ai ai-cv"></i></a>
+  </div>
+</article>
+
+<section>
+  <h2 class="section-title">news</h2>
+  <div class="news">
+    <table>
+      {%- for n in site.data.news %}
+      {%- assign d = n.date | split: "-" -%}
+      {%- assign mi = d[1] | plus: 0 | minus: 1 %}
+      <tr{% if n.highlight %} class="highlight"{% endif %}>
+        <th scope="row">{{ months[mi] }} {{ d[0] }}</th>
+        <td>{{ n.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</td>
+      </tr>
+      {%- endfor %}
+    </table>
+  </div>
+</section>
+
+<section>
+  <h2 class="section-title">selected publications</h2>
+  <p class="section-sub">* equal contribution. Full list on the <a href="{{ '/publications/' | relative_url }}">publications</a> page or <a href="https://scholar.google.com/citations?user={{ site.socials.scholar }}" target="_blank" rel="noopener">Google Scholar</a>.</p>
+  <ol class="pubs">
+    {%- for p in site.data.publications %}
+      {%- if p.selected %}{% include publication.html pub=p %}{% endif -%}
+    {%- endfor %}
+  </ol>
+</section>
+
+<section>
+  <h2 class="section-title">service</h2>
+  <ul class="plain">
+    <li><strong>Area Chair:</strong> ARR Oct 2025</li>
+    <li><strong>Reviewer:</strong> NeurIPS 2023, ICLR 2024, ICML 2024, ICLR 2025, ICLR 2026</li>
+  </ul>
+</section>

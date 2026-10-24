@@ -1,0 +1,19 @@
+---
+layout: default
+title: publications
+permalink: /publications/
+---
+<header class="post-header">
+  <h1 class="post-title">publications</h1>
+  <p class="desc">* equal contribution. See also <a href="https://scholar.google.com/citations?user={{ site.socials.scholar }}" target="_blank" rel="noopener">Google Scholar</a>.</p>
+</header>
+
+{%- assign by_year = site.data.publications | group_by: "year" -%}
+{%- for g in by_year %}
+<section class="year-group">
+  <h2 class="year">{{ g.name }}</h2>
+  <ol class="pubs">
+    {%- for p in g.items %}{% include publication.html pub=p %}{% endfor %}
+  </ol>
+</section>
+{%- endfor %}

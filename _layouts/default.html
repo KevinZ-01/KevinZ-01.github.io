@@ -1,31 +1,68 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.url != "/" %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description | strip }}">
+  <meta name="author" content="{{ site.title }}">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description | strip }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.avatar }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛡️</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@300;400&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <script>
+    // Apply saved theme before paint to avoid a flash
+    (function () {
+      try { var t = localStorage.getItem("theme"); if (t) document.documentElement.setAttribute("data-theme", t); } catch (e) {}
+    })();
+  </script>
+</head>
+<body>
+  <header class="navbar">
+    <div class="container nav-inner">
+      <a class="brand" href="{{ '/' | relative_url }}"{% if page.url == "/" %} style="visibility:hidden"{% endif %}>
+        <span class="first">{{ site.first_name }}</span> {{ site.last_name }}
+      </a>
+      <nav class="nav-links">
+        {%- for item in site.nav %}
+        {%- assign active = false -%}
+        {%- if page.url == item.url %}{% assign active = true %}{% endif -%}
+        <a href="{{ item.url | relative_url }}"{% if active %} class="active"{% endif %}{% if item.url contains ".pdf" %} target="_blank" rel="noopener"{% endif %}>{{ item.title }}</a>
+        {%- endfor %}
+        <button id="theme-toggle" class="theme-toggle" type="button" title="Toggle dark mode" aria-label="Toggle dark mode">
+          <i class="fa-solid fa-moon"></i><i class="fa-solid fa-sun"></i>
+        </button>
+      </nav>
     </div>
+  </header>
 
-    {% include scripts.html %}
+  <main class="container">
+    {{ content }}
+  </main>
 
-  </body>
+  <footer class="footer">
+    <div class="container">
+      &copy; {{ site.time | date: "%Y" }} {{ site.title }}. Last updated {{ site.time | date: "%B %Y" }}.
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("theme-toggle").addEventListener("click", function () {
+      var root = document.documentElement;
+      var dark = root.getAttribute("data-theme") === "dark" ||
+        (!root.hasAttribute("data-theme") && window.matchMedia("(prefers-color-scheme: dark)").matches);
+      var next = dark ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      try { localStorage.setItem("theme", next); } catch (e) {}
+    });
+  </script>
+</body>
 </html>

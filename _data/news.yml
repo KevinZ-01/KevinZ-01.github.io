@@ -1,0 +1,30 @@
+# Newest first. `text` supports Markdown. Set `highlight: true` to emphasize an item.
+- date: 2026-09
+  text: Invited talk at CMU!
+- date: 2026-06
+  text: I have joined **Scale AI** as a Research Scientist!
+- date: 2026-01
+  text: Two papers accepted by **ICLR 2026**!
+- date: 2026-01
+  text: Our SIRAJ paper is accepted by **EACL 2026** Findings!
+- date: 2025-12
+  text: Selected for **MATS** and the **Anthropic Fellows Program** for AI Safety Research!
+  highlight: true
+- date: 2025-08
+  text: Our SafeKey paper is accepted by **EMNLP 2025**!
+- date: 2025-06
+  text: Invited talk at Microsoft on safety reasoning!
+- date: 2025-06
+  text: Honored to receive the UCSC Dissertation-Year Fellowship to support my research on Trustworthy AI!
+- date: 2025-03
+  text: I will join **Microsoft** as a research intern this summer!
+- date: 2025-01
+  text: Our MSSBench paper is accepted by **ICLR 2025**!
+- date: 2024-05
+  text: Two papers are accepted by **ACL 2024**!
+- date: 2024-03
+  text: One paper is accepted by **NAACL 2024**!
+- date: 2023-06
+  text: Our SlugJARVIS team won third place in the first-ever [Amazon Alexa SimBot Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7072693926784077824/)!
+- date: 2023-04
+  text: Our ESC paper is accepted by **ICML 2023**!
